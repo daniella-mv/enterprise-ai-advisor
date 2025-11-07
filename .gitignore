@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# Build / artifacts
+app/rag/index.pkl
+evals/metrics.csv
+
+# Jupyter
+.ipynb_checkpoints/
