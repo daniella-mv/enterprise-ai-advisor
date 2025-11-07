@@ -1,3 +1,5 @@
+![Eval Gate](https://github.com/daniella-mv/enterprise-ai-advisor/actions/workflows/ci.yml/badge.svg)
+
 # Enterprise AI Advisor — Starter Repo
 
 A minimal, runnable scaffold showing an enterprise-style GenAI/RAG advisor:
@@ -22,12 +24,14 @@ Evaluate:
 python evals/run.py
 ```
 
-_Repo generated: 2025-11-06_
 
 ### Helpful docs
 - `docs/demo_script_2min.md`
 - `docs/case_study_template.md`
-- `docs/howto_step_by_step.md`
 
+
+## Architecture
 ![AWS + Snowflake Reference](arch/reference_aws_snowflake.png)
 
+## Demo (2-min)
+Loom walkthrough: <link later>
